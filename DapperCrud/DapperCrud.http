@@ -1,0 +1,6 @@
+@DapperCrud_HostAddress = http://localhost:5142
+
+GET {{DapperCrud_HostAddress}}/Customers/
+Accept: application/json
+
+###
